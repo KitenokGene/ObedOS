@@ -14,7 +14,7 @@ Dudnik os. On Flat Assembler
 - Have KEK!
 
 ## Screenshots
-- ![Screenshot 1](https://github.com/KitenokGene/ObedOS/blob/main/ObedOS%20v0.02.png?raw=true) or boot on real PC
+- ![Screenshot 1](https://github.com/KitenokGene/ObedOS/blob/main/ObedOS%20v0.02.png?raw=true)
 
 ### TODO:
 - Commands
