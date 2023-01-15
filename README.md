@@ -9,6 +9,10 @@ Dudnik os. On Flat Assembler
 - Press CTRL + F9
 - Create ISO boot image with UltraISO
 
+## How to run?
+- Create VM with ISO in [Releases](https://github.com/KitenokGene/ObedOS/releases/) or boot on real PC
+- Have KEK!
+
 ### TODO:
 - Commands
 - Console limits (to not override root@obed text)
