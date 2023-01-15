@@ -11,7 +11,8 @@ Simple OS written on Flat Assembler
 - Create ISO boot image with UltraISO
 
 ## How to run?
-- Create VM with ISO in [Releases](https://github.com/KitenokGene/ObedOS/releases/) or boot on real PC
+- Compile ISO yourself or download it from [Releases](https://github.com/KitenokGene/ObedOS/releases/)
+- Boot ISO on VM or on Real PC
 - Have KEK!
 
 ## Screenshots
