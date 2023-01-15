@@ -1,6 +1,7 @@
 # ObedOS
-Dudnik os. On Flat Assembler
+Simple OS written on Flat Assembler
 ## Features:
+- Custom kernel (includes nothing)
 - It's writing Hello Party! and Dudnik OS by KitenokObed loaded! texts on screen!
 - You can look on them
 - You can write text on line!!! (v0.02 feature)
