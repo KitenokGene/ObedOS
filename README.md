@@ -13,6 +13,9 @@ Dudnik os. On Flat Assembler
 - Create VM with ISO in [Releases](https://github.com/KitenokGene/ObedOS/releases/) or boot on real PC
 - Have KEK!
 
+## Screenshots
+- ![Screenshot 1](https://github.com/KitenokGene/ObedOS/blob/main/ObedOS%20v0.02.png?raw=true) or boot on real PC
+
 ### TODO:
 - Commands
 - Console limits (to not override root@obed text)
