@@ -10,6 +10,9 @@ Simple OS written on Flat Assembler
 - Press CTRL + F9
 - Create ISO boot image with UltraISO
 
+## Precautions
+- It's not recommended to run this OS on real machine because idk what it can do with the hard drive.
+
 ## How to run?
 - Compile ISO yourself or download it from [Releases](https://github.com/KitenokGene/ObedOS/releases/)
 - Boot ISO on VM or on Real PC
